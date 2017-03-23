@@ -16,10 +16,10 @@ namespace ThyLastHit
         internal void Initialize()
         {
             Game.OnUpdate += Game_OnTick;
-            Obj_AI_Base.OnBasicAttack += Obj_AI_Base_OnBasicAttack;
+            Obj_AI_Base.OnSpellCast += Obj_AI_Base_OnSpellCast;
         }
 
-        private void Obj_AI_Base_OnBasicAttack(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
+        private void Obj_AI_Base_OnSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
         {
             if (sender.IsMe)
             {
@@ -27,7 +27,6 @@ namespace ThyLastHit
                 Deley = sender.AttackDelay;
                 LastRitt = Game.Time;
             }
-        
         }
 
         private void Game_OnTick(EventArgs args)
