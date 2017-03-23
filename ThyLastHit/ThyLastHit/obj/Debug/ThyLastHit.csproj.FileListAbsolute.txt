@@ -1,0 +1,11 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\ThyLastHit.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\obj\Debug\ThyLastHit.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\ThyLastHit.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\ThyLastHit.pdb
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\obj\Debug\ThyLastHit.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\ThyLastHit\ThyLastHit\obj\Debug\ThyLastHit.pdb
